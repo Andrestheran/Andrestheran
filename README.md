@@ -1,3 +1,4 @@
+```
 package main
 
 import (
@@ -23,3 +24,4 @@ func GetBio() Bio {
 		"- 📫 How to reach me:":              "https://github.com/AnhellO#you-can-reach-me-at-alien",
 	}
 }
+```
