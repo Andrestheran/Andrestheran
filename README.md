@@ -18,6 +18,9 @@ You can find me 🌎:
 - [Twitter](https://twitter.com/andevtheran)
 
 
+![andrestheran's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrestheran&show_icons=true&theme=blueberry)
+
+
 ```
 
 
