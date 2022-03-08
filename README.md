@@ -1,6 +1,7 @@
 ### Hi! I'm Andres 👋 👨🏻‍💻
 
-(<img width="569" alt="foto" src="https://user-images.githubusercontent.com/77905995/157293664-a93d3a6d-62fb-4bd8-b144-438a4d6accde.png">
+<img width="558" alt="fotoo" src="https://user-images.githubusercontent.com/77905995/157326773-4daf565b-3996-46e7-8f9a-d966656ab388.png">
+
 
 ```js
 
